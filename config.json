@@ -1,0 +1,17 @@
+
+{
+    "storyList": "test",
+    "file": "**",
+    "browser": "chrome",
+    "device": "desktop",
+    "mobileName": "iphone_6",
+    "maxInstances": 1,
+    "windowSize": "1400,800",
+    "tags": "",
+    "retry": 2,
+    "grid": "",
+    "connect":false,
+    "vm": "niuniu002-2578433.lvs02.dev.ebayc3.com",
+    "site": "mx_vns",
+    "timeout": 60
+}
